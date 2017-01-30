@@ -1,0 +1,2 @@
+# printrange
+print range
